@@ -1,3 +1,25 @@
+# Card Game
+Conteúdo da Disciplina: Grafos 1
+
+## Alunos
+| Matrícula | Aluno |
+| ----------| -------------------------|
+| 190028122 | Gabriel Sabanai Trindade |
+| 211029586 | Sabrina Caldas Berno |
+
+## Sobre
+O Card Game é um jogo de cartas no qual você batalha usando os elementos Fogo, Água e Neve com o computador. O elemento mais forte vence. Se os dois jogarem uma carta de mesmo elemento, a rodada empata e a partida continua.
+Para esse jogo será usado grafos...
+
+## Screenshots
+
+## Instalação
+Linguagem: xxxxxx
+Framework: (caso exista)
+Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
