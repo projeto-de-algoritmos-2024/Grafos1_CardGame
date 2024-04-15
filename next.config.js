@@ -2,15 +2,27 @@
 
 const nextConfig = {
     images: {
-        domains: ['cdn.ome.lt'],
-        remotePatterns: [
-            {
-                protocol: 'https',
-                hostname: 'cdn.ome.lt',
-                port: '',
-                pathname: '/account123/**',
-            },
+        domains: [
+            'cdn.ome.lt',
+            'ovicio.com.br',
+            'criticalhits.com.br',
+            'assets.papelpop.com',
+            'pm1.aminoapps.com',
+            'integrallife.com',
+            'i.pinimg.com'
         ],
+    },
+    webpack(config) {
+        config.module.rules.push({
+            test: /\.(ts|tsx)$/,
+            use: {
+                loader: 'babel-loader',
+                options: {
+                    presets: ['next/babel', '@babel/preset-typescript'],
+                },
+            },
+        });
+        return config;
     },
 };
 
