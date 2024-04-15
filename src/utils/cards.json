@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "power": "5",
+      "title": "Naruto Uzumaki",
+      "image": {
+        "src": "https://cdn.ome.lt/4CmCTmA7fhZ2_iAvAyqk7BCSPhk=/987x0/smart/uploads/conteudo/fotos/intro-1702004665_copy.jpeg",
+        "alt": "Naruto Uzumaki"
+      },
+      "description": "O maior ninja do mundo ninja...",
+      "cardTypes": ["Vento"]
+    },
+    {
+      "power": "5",
+      "title": "Sasuke Uchiha",
+      "image": {
+        "src": "https://ovicio.com.br/wp-content/uploads/2024/03/20240307-sasuke3.webp",
+        "alt": "Sasuke Uchiha"
+      },
+      "description": "Braço direito do maior ninja do mundo...",
+      "cardTypes": ["Fogo", "Eletrico"]
+    },
+    {
+      "power": "5",
+      "title": "Sakura Haruno",
+      "image": {
+        "src": "https://criticalhits.com.br/wp-content/uploads/2022/02/signo-sakura-naruto.jpg",
+        "alt": "Sakura Haruno"
+      },
+      "description": "A maior ninja médica do mundo...",
+      "cardTypes": ["Água"]
+    },
+    {
+      "power": "4",
+      "title": "Marceline",
+      "image": {
+        "src": "https://assets.papelpop.com/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-09-at-16.12.10.jpeg",
+        "alt": "Marceline"
+      },
+      "description": "A vampira da terra de Oo...",
+      "cardTypes": ["Sombra"]
+    },
+    {
+      "power": "3",
+      "title": "Mordecai",
+      "image": {
+        "src": "https://pm1.aminoapps.com/6811/a05b7be10f2b7d88a1a67e0e87fa82b75ece87b2v2_00.jpg",
+        "alt": "Mordecai"
+      },
+      "description": "O jovem gaio azul do parque...",
+      "cardTypes": ["Normal"]
+    },
+    {
+      "power": "3",
+      "title": "Rigby",
+      "image": {
+        "src": "https://pm1.aminoapps.com/6810/7bb23935b1b6231ba87441f68165ce5990a3695av2_hq.jpg",
+        "alt": "Rigby"
+      },
+      "description": "O guaxinim brincalhão do parque...",
+      "cardTypes": ["Normal"]
+    },
+    {
+      "power": "5",
+      "title": "Avatar Aang",
+      "image": {
+        "src": "https://integrallife.com/wp-content/uploads/2016/11/AvatarTheLastAirbender-1200.jpg",
+        "alt": "Avatar Aan"
+      },
+      "description": "O Avatar nômade do ar...",
+      "cardTypes": ["Água", "Fogo", "Terra", "Ar"]
+    },
+    {
+      "power": "5",
+      "title": "Avatar Korra",
+      "image": {
+        "src": "https://i.pinimg.com/564x/70/bd/31/70bd310ba38acaab0a0b6d91a89cb611.jpg",
+        "alt": "Avatar Korra"
+      },
+      "description": "A Avatar da Tribo da Água do Sul...",
+      "cardTypes": ["Água", "Fogo", "Terra", "Ar"]
+    },
+    {
+      "power": "5",
+      "title": "Son Gohan",
+      "image": {
+        "src": "https://i.pinimg.com/564x/ca/b4/72/cab4729a97f5e80996da239aa9f2f125.jpg",
+        "alt": "Son Gohan"
+      },
+      "description": "O Sayajin com potencial ilimitado...",
+      "cardTypes": ["Fada"]
+    },
+    {
+      "power": "5",
+      "title": "Son Goku",
+      "image": {
+        "src": "https://i.pinimg.com/736x/fa/ee/d0/faeed07c281a241f3ca5c8adf1416971.jpg",
+        "alt": "Son Goku"
+      },
+      "description": "O Sayajin protetor da Terra...",
+      "cardTypes": ["Fada"]
+    },
+    {
+      "power": "5",
+      "title": "Satoru Gojo",
+      "image": {
+        "src": "https://i.pinimg.com/564x/a8/59/a0/a859a016747da5b8e73fb71607b02d92.jpg",
+        "alt": "Satoru Gojo"
+      },
+      "description": "O feiticeiro mais forte da era moderna...",
+      "cardTypes": ["Sombra"]
+    },
+    {
+      "power": "3",
+      "title": "Yuji Itadori",
+      "image": {
+        "src": "https://i.pinimg.com/564x/84/fc/39/84fc39458afec4898dce75dfe93ee4d9.jpg",
+        "alt": "Yuji Itadori"
+      },
+      "description": "O feiticeiro portador do Sukuna..",
+      "cardTypes": ["Sombra"]
+    },
+    {
+      "power": "5",
+      "title": "Yuta Okkotsu",
+      "image": {
+        "src": "https://i.pinimg.com/564x/36/4c/6a/364c6a925a9f66653ee4231bfe010b14.jpg",
+        "alt": "Yuta Okkotsu"
+      },
+      "description": "O segundo feiticeiro mais forte da era moderna...",
+      "cardTypes": ["Sombra"]
+    }
+  ]
+}

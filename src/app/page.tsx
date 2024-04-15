@@ -1,5 +1,7 @@
+import React from 'react';
 import styles from "./page.module.css";
 import { Card } from "@/components/Card/Card";
+import CardsJson from '@/utils/cards.json';
 
 export default function Home() {
     return (
@@ -8,11 +10,17 @@ export default function Home() {
             <p className={styles.description}>Saiba quais cartas tem vantagens sobre as outras!</p>
 
             <div className={styles.container}>
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
+                {
+                    CardsJson.data.map(({
+                        title,
+                        image,
+                        description,
+                        cardTypes,
+                        power,
+                    }) => (
+                        <Card key={title} power={power} title={title} image={image} description={description} cardTypes={cardTypes} />
+                    ))
+                }
             </div>
         </main>
     );
