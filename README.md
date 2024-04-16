@@ -23,7 +23,11 @@ Vídeo explicativo da dupla: https://drive.google.com/drive/folders/1PlfuugxXzl9
 Linguagem: Javascript 
 Framework: Next
 
-Para rodar o projeto, basta fazer o download do repositório e rodar este código no terminal:
+Para rodar o projeto, recomendamos utilizar node 20.10.0 e ai basta fazer o download do repositório e rodar este código no terminal:
+
+```
+npm install
+```
 
 ```
 npm run dev 
