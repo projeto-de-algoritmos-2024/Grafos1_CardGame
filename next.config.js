@@ -1,7 +1,9 @@
 // next.config.js
 
 const nextConfig = {
+    output: 'export',
     images: {
+        unoptimized: true,
         domains: [
             'cdn.ome.lt',
             'ovicio.com.br',

@@ -43,9 +43,3 @@ export function bfs(initialCard: Card): string[] {
 
   return advantageCards.map(item => item.title);
 }
-  
-  // Exemplo de uso
-  // const initialCard: Card = { title: 'CartaInicial', cardTypes: 'Água' };
-  // const advantageCards: Card[] = bfs(initialCard);
-  // console.log('Cartas com vantagem:', advantageCards);
-  

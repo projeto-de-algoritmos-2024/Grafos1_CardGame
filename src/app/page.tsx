@@ -1,4 +1,5 @@
 "use client";
+
 import React, { useState } from 'react';
 import styles from "./page.module.css";
 import {Card, CardTypes} from "@/components/Card/Card";
