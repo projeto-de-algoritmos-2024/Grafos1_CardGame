@@ -26,7 +26,6 @@ export default function Modal({handleModal, title, description, image, advantage
                     width={150}
                     height={100}
                 />
-                <p className={styles.text}>description</p>
                 <div className={styles.advantageContainer}>
                     <h3 className={styles.advantageTitle}>Cartas com vantagem</h3>
                     <p className={styles.advantage}>
