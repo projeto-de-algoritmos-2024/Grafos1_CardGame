@@ -15,4 +15,4 @@ export const advantages: Advantages = {
   'Eletrico': new Set(['Voador', 'Água']),
   'Normal': new Set(['Aço', 'Vento']),
   'Vento': new Set(['Água', 'Planta'])
-}; 
+};

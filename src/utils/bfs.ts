@@ -1,8 +1,6 @@
 import { advantages } from "./graphByType";
 import CardsJson from '@/utils/cards.json';
 
-
-
 interface Card {
   power: string,
   title: string,

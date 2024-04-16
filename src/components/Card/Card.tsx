@@ -3,7 +3,7 @@ import styles from './Card.module.css';
 import Image from "next/image";
 import {ColorType} from "@/utils/colorType";
 
-type CardTypes = {
+export type CardTypes = {
     onClick?: VoidFunction;
     power: string;
     title: string;
