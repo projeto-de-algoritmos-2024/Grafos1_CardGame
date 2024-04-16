@@ -4,6 +4,7 @@ import Image from "next/image";
 import {ColorType} from "@/utils/colorType";
 
 type CardTypes = {
+    onClick?: VoidFunction;
     power: string;
     title: string;
     image: {
@@ -14,8 +15,8 @@ type CardTypes = {
     cardTypes: string[];
 }
 
-export const Card = ({power, title, image, description, cardTypes}: CardTypes) => (
-    <div style={{border: `2px solid ${ColorType[cardTypes[0]]}`}}  className={styles.container}>
+export const Card = ({onClick, power, title, image, description, cardTypes}: CardTypes) => (
+    <div onClick={onClick} style={{border: `2px solid ${ColorType[cardTypes[0]]}`}}  className={styles.container}>
         <p className={styles.cardPowerContainer}>{power}</p>
         <Image
             src={image.src}
