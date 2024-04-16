@@ -12,11 +12,11 @@ type CardTypes = {
         alt: string;
     }
     description: string;
-    cardTypes: string[];
+    cardTypes: string;
 }
 
 export const Card = ({onClick, power, title, image, description, cardTypes}: CardTypes) => (
-    <div onClick={onClick} style={{border: `2px solid ${ColorType[cardTypes[0]]}`}}  className={styles.container}>
+    <div onClick={onClick} style={{border: `2px solid ${ColorType[cardTypes]}`}}  className={styles.container}>
         <p className={styles.cardPowerContainer}>{power}</p>
         <Image
             src={image.src}
@@ -32,23 +32,12 @@ export const Card = ({onClick, power, title, image, description, cardTypes}: Car
 
         <div className={styles.cardType}>
             <p className={styles.cardTypeText}>Tipo:</p>
-            {
-                cardTypes.map((item, index) => (
-                    index === 0 ?
-                        <p
-                            className={styles.cardTypeListText}
-                            key={item}
-                            style={{color: ColorType[item], marginLeft: '4px'}}
-                        >
-                            {item}
-                        </p> :
-                        <p
-                            className={styles.cardTypeListText}
-                            key={item}
-                            style={{color: ColorType[item]}}
-                        >, {item}</p>
-                ))
-            }
+                <p
+                    className={styles.cardTypeListText}
+                    style={{color: ColorType[cardTypes], marginLeft: '4px'}}
+                >
+                    {cardTypes}
+                </p> 
         </div>
     </div>
 )

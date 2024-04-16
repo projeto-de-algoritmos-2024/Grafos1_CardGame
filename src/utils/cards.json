@@ -8,7 +8,17 @@
         "alt": "Naruto Uzumaki"
       },
       "description": "O maior ninja do mundo ninja...",
-      "cardTypes": ["Vento"]
+      "cardTypes": "Vento"
+    },
+    {
+      "power": "5",
+      "title": "Noia Uzumaki",
+      "image": {
+        "src": "https://cdn.ome.lt/4CmCTmA7fhZ2_iAvAyqk7BCSPhk=/987x0/smart/uploads/conteudo/fotos/intro-1702004665_copy.jpeg",
+        "alt": "Naruto Uzumaki"
+      },
+      "description": "O maior ninja do mundo ninja...",
+      "cardTypes": "Vento"
     },
     {
       "power": "5",
@@ -18,7 +28,7 @@
         "alt": "Sasuke Uchiha"
       },
       "description": "Braço direito do maior ninja do mundo...",
-      "cardTypes": ["Fogo", "Eletrico"]
+      "cardTypes": "Fogo"
     },
     {
       "power": "5",
@@ -28,7 +38,7 @@
         "alt": "Sakura Haruno"
       },
       "description": "A maior ninja médica do mundo...",
-      "cardTypes": ["Água"]
+      "cardTypes": "Água"
     },
     {
       "power": "4",
@@ -38,7 +48,7 @@
         "alt": "Marceline"
       },
       "description": "A vampira da terra de Oo...",
-      "cardTypes": ["Sombra"]
+      "cardTypes": "Sombra"
     },
     {
       "power": "3",
@@ -48,7 +58,7 @@
         "alt": "Mordecai"
       },
       "description": "O jovem gaio azul do parque...",
-      "cardTypes": ["Normal"]
+      "cardTypes": "Normal"
     },
     {
       "power": "3",
@@ -58,7 +68,7 @@
         "alt": "Rigby"
       },
       "description": "O guaxinim brincalhão do parque...",
-      "cardTypes": ["Normal"]
+      "cardTypes": "Normal"
     },
     {
       "power": "5",
@@ -68,7 +78,7 @@
         "alt": "Avatar Aan"
       },
       "description": "O Avatar nômade do ar...",
-      "cardTypes": ["Água", "Fogo", "Terra", "Ar"]
+      "cardTypes": "Água"
     },
     {
       "power": "5",
@@ -78,7 +88,7 @@
         "alt": "Avatar Korra"
       },
       "description": "A Avatar da Tribo da Água do Sul...",
-      "cardTypes": ["Água", "Fogo", "Terra", "Ar"]
+      "cardTypes": "Água"
     },
     {
       "power": "5",
@@ -88,7 +98,7 @@
         "alt": "Son Gohan"
       },
       "description": "O Sayajin com potencial ilimitado...",
-      "cardTypes": ["Fada"]
+      "cardTypes": "Fada"
     },
     {
       "power": "5",
@@ -98,7 +108,7 @@
         "alt": "Son Goku"
       },
       "description": "O Sayajin protetor da Terra...",
-      "cardTypes": ["Fada"]
+      "cardTypes": "Fada"
     },
     {
       "power": "5",
@@ -108,7 +118,7 @@
         "alt": "Satoru Gojo"
       },
       "description": "O feiticeiro mais forte da era moderna...",
-      "cardTypes": ["Sombra"]
+      "cardTypes": "Sombra"
     },
     {
       "power": "3",
@@ -118,7 +128,7 @@
         "alt": "Yuji Itadori"
       },
       "description": "O feiticeiro portador do Sukuna..",
-      "cardTypes": ["Sombra"]
+      "cardTypes": "Sombra"
     },
     {
       "power": "5",
@@ -128,7 +138,7 @@
         "alt": "Yuta Okkotsu"
       },
       "description": "O segundo feiticeiro mais forte da era moderna...",
-      "cardTypes": ["Sombra"]
+      "cardTypes": "Sombra"
     }
   ]
 }
