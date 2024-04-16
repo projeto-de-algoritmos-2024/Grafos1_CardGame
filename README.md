@@ -13,6 +13,7 @@ No Card Game você poderá ver um catálogo de cartas para te auxiliará a ident
 Para esse projeto, iremos utilizar um grafo para organizar as cartas e um algorítmo de busca em largura para identifcar as cartas e seus relacionamentos
 
 Vídeo explicativo da dupla: https://drive.google.com/drive/folders/1PlfuugxXzl9ulSP1b35kADDdkKPA6yxn?usp=sharing
+Vídeo explicativo da dupla (youtube): https://youtu.be/ArH5fkeHGNc
 
 Link do deploy: [http://cardgame.s3-website-us-east-1.amazonaws.com/](http://cardgame.s3-website-us-east-1.amazonaws.com/)
 
