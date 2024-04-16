@@ -14,6 +14,8 @@ Para esse projeto, iremos utilizar um grafo para organizar as cartas e um algor√
 
 V√≠deo explicativo da dupla: https://drive.google.com/drive/folders/1PlfuugxXzl9ulSP1b35kADDdkKPA6yxn?usp=sharing
 
+Link do deploy: cardgame.s3-website-us-east-1.amazonaws.com/
+
 ## Screenshots
 ![alt text](image.png)
 ![alt text](image-1.png)
